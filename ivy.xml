@@ -1,5 +1,5 @@
 <ivy-module version="2.0">
-  <info organisation="Tosa" module="Tosa" revision="SNAPSHOT"/>
+  <info organisation="Tosa" module="Tosa" revision="0.9b1"/>
   <configurations>
     <conf name="lib"/>
     <conf name="support"/>
